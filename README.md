@@ -6,6 +6,6 @@ The repository has:
 
      Report.pdf -> report in .pdf format
 
-     RScript -> RScript in .R format 
+     RScript -> RScript that generates the predicted movie ratings and RMSE score 
      
  The project applied machine learning strategies to develop a movie recommendation system.
